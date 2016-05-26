@@ -1,0 +1,486 @@
+#wrapper {
+	 width: 1024;
+}
+
+#logo {
+	 margin-top: 10px;
+	 width:150px;
+	 margin-left: 30px;
+
+}
+
+#body {
+
+	 background-color: #ededed;
+}
+
+header {
+	 clear: right;
+}
+
+.navqueries {
+
+	 display: none;
+}
+
+nav {
+	 width:60%;
+	 float: right;
+	 margin-top: 50px;
+	 clear: both;
+	 font-family: futura;
+	 font-size: 15px;
+	 text-decoration: none;
+}
+
+ul {
+	 list-style-type: none;
+	 text-decoration: none;
+
+}
+
+
+li {
+	 margin-left: 50px;
+	 padding: 10px;
+	 display: inline;
+	 text-decoration: none;
+}
+nav li a{
+	 text-decoration: none;
+	 color: #343b4c;
+	 margin-right: 15px;
+	 color: #FFA599;
+}
+
+
+.what {
+	 background-color: #ED978E;
+	 width: 100%;
+	 height: 350px;
+	 margin-top: -10px;
+}
+
+.homepic {
+	 width: 100%;
+}
+
+.whath1 {
+	 color: white;
+	 font-family: futura;
+	 margin-left: 530px;
+	 padding-top: 70px;
+	 font-size: 30px;
+	 letter-spacing: 1.5px;
+}
+
+.whatp {
+	 color: white;
+	 font-family: futura;
+	 padding: 30px 60px 60px;
+	 width: 700px;
+	 margin-left: 200px;
+	 text-align: justify;
+	 letter-spacing: 1px;
+	 font-size: 20px;
+	 line-height: 27px;
+
+
+}
+
+
+nav li a:hover{
+	color:#BF7C7C;
+}
+
+
+
+.fotoshome {
+
+	 float: left;
+	 padding: 20px;
+	 margin-left: 120px;
+	 margin-top: 50px;
+	 margin-bottom: 100px;
+}
+
+.fotoshome:hover { opacity: 0.6; 
+	 filter: alpha(opacity=30); }
+
+
+.homeimg {
+
+	 opacity: 0.6;
+     filter: alpha(opacity=40);
+     width: 100%;
+
+}
+
+.homeimg:hover { opacity: 0.4;
+	 filter: alpha(opacity=30); }
+
+ .subjoin {
+
+ 	 margin-left: 200px;
+ }
+
+
+.suscribe {
+	 color: #E88277;
+	 font-family: futura;
+	 font-size: 23px;
+	 padding: 10px;
+	 margin-top: 50px;
+
+}
+
+.join {
+	 color: #BCD848;
+	 font-family: futura;
+	 margin-left: 200px;
+
+}
+
+.cr {
+	background-color: #EDEEF0;
+	font-family: futura;
+	color: #E88277;
+	font-size: 12px;
+	padding: 20px;
+	text-align: center;
+	margin-top: 110px;
+
+}
+
+.subboton{
+	color: #E88277;
+	background-color: #EDEEF0;
+	width: 200px;
+	height: 40px;
+	border-radius: 16px;
+	border: white;
+	margin-top: 15px;
+}
+
+.textom {
+
+	 font-family: futura;
+	 margin-left: 470px;
+	 position: absolute; 
+     top: 300px; 
+     left: 0; 
+      width: 100%; 
+}
+
+
+
+.h1m {
+	 font-size: 37px;
+	 letter-spacing: 12px;
+	 margin-left: 50px;
+	 padding-top: 80px;
+}
+
+.h4m {
+
+	 color: #AEADB3;
+	 font-size: 25px;
+	 padding-top: 35px;
+	 margin-left:130px;
+}
+
+.colsproducts {
+	 float: left;
+	 margin: 100px;
+
+}
+
+.h1p {
+	 font-family: futura;
+	 padding: 10px 10px 0px ;
+	 font-size: 18;
+	 letter-spacing: 8px;
+	 text-align: center;
+
+}
+
+.h4p {
+	 font-family: futura;
+	 color: #C2C3C9;
+	 font-size: 14px;
+	 padding: 10px;
+	 text-align: center;
+}
+
+.prodpics:hover { opacity: 0.5;
+	 filter: alpha(opacity=30); }
+
+.mapinfo {
+
+	 background-color: white;
+	 width: 250px;
+	 position: absolute; 
+     top: 660px;
+     left: 890px;
+}
+
+.mapapic {
+
+	 width: 100%;
+	 margin-left: 150px;
+	 margin-bottom: 100px;
+	 margin-right: 100px;
+	 margin-top: 30px;
+
+
+}
+
+.h1contact {
+
+	 color: #BCD848;
+	 font-family: futura;
+	 padding: 10px 10px 0px;
+	 font-size: 20px;
+
+}
+
+.pcontact {
+
+	 color: #EF8C81;
+	 font-family: futura;
+	 line-height: 20px;
+	 padding: 10px;
+
+}
+
+.navf {
+
+	 font-family: futura;
+     background-color: #EDEEF0;
+     color: #E88277;
+     margin: 10px;
+     float: left;
+     padding: 30px;
+     width: 130px;
+     text-align: center;
+     display: none;
+}
+
+
+.footer {
+	clear: both;
+	
+}
+
+
+
+.listaf {
+	 color: #ED978E;
+	 font-family:futura;
+	 width:200px;
+	 font-size: 13px;
+	 line-height: 45px;
+	 padding: 40px;
+	 float:left; }
+
+@media only screen and (max-width: 500px) {
+    nav {
+        display: none;
+    }
+
+    .what {
+
+    	width: 100%;
+    	height: 50%;
+    }
+
+    .whath1 {
+
+    	font-size: 1em;
+    	width: 70%;
+    	margin-left: 30%;
+    }
+
+    .whatp {
+
+    	font-size: 0.8em;
+    	width: 70%;
+    	margin-left: 0%;
+    	line-height: 100%;
+ 
+    }
+
+    .fotoshome {
+
+    	width: 45%;
+    	padding: 2%;
+    	margin: 0%;
+
+    }
+
+    hr {
+
+    	display: none;
+    }
+
+    .navf {
+
+	 font-family: futura;
+     background-color: #EDEEF0;
+     color: #E88277;
+     margin: 0.5%;
+     float: left;
+     padding: 8%;
+     width: 33%;
+     text-align: center;
+     display: inline;
+}
+    .navqueries {
+
+    	display: all;
+    	float: right;
+    	width: 10%;
+
+    }
+
+    #logo {
+
+    	margin-left: 30%;
+    }
+
+    .listaf {
+    	display: none;
+
+    }
+
+    .cr {
+
+    	font-size: 0.3em;
+    	margin-top: 10%;
+    	height: 3%;
+    }
+
+    .subboton {
+
+    	margin-left: 25%
+    }
+
+    .suscribe {
+    	font-size: 1.3em;
+    	float: right;
+    	margin-right: 70%;
+    	padding: 5%;
+
+
+    }
+
+    .join { 
+    	float: right;
+    	margin-right: 50%;
+    	font-size: 0.7em;
+    	width: 100%;
+    	padding: 5%;
+
+    }
+
+    .textom {
+
+	 font-family: futura;
+	 margin-left: 10%;
+	 position: absolute; 
+     top: 30%;
+     width: 10%; 
+   
+
+
+
+}
+
+    .h1m {
+	 font-size: 2em;
+	 letter-spacing: 100%;
+	 padding-top: 80px;
+	 display: inline;
+
+}
+
+    .h4m {
+
+	 color: #AEADB3;
+	 font-size: 1em;
+	 padding-top: 35px;
+	 margin-left:130px;
+	 float: left;
+}
+
+.colsproducts {
+	 float: left;
+
+}
+
+
+.colsproducts {
+	float: left;
+	margin: 18%;
+	width: 70%;
+
+}
+
+.prodpics {
+
+	width: 90%;
+	margin-right: 30%;
+}
+
+
+.h1p {
+	font-family: futura;
+	padding: 10% 5% 0% ;
+	font-size: 0.9em;
+	letter-spacing: 8%;
+	text-align: center;
+	margin-right: 5%;
+
+}
+
+.h4p {
+	 font-family: futura;
+	 color: #C2C3C9;
+	 font-size: 0.7em;
+	 padding: 5%;
+	 text-align: center;
+	 margin-right: 10%;
+}
+
+
+.mapapic {
+
+	 display: unset;
+	 height: 30%;
+	 bottom: 50%;
+
+}
+
+
+
+.h1contact {
+
+	 color: #BCD848;
+	 font-family: futura;
+	 padding: 0%
+	 font-size: 2em;
+
+
+}
+
+.mapinfo {
+
+	 background-color: white;
+	 display: unset;
+	 left: 1%;
+
+
+}
+
+
+
